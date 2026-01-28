@@ -12,10 +12,10 @@
 <a href="mailto:simeoncephasamoussou@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail"/>
 </a>
-<a href="https://linkedin.com/in/asimc">
+<a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
 </a>
-<a href="https://github.com/votre-username">
+<a href="https://github.com/Cephas-67">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
 </a>
 <img src="https://img.shields.io/badge/Cotonou-Bénin-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010" alt="Location"/>
@@ -23,8 +23,8 @@
 <br><br>
 
 <!-- Compteur de visiteurs animé -->
-<img src="https://komarev.com/ghpvc/?username=votre-username&label=Visiteurs&color=00d9ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/votre-username?label=Followers&style=for-the-badge&color=00D9FF&labelColor=101010" alt="Followers"/>
+<img src="https://komarev.com/ghpvc/?username=Cephas-67&label=Visiteurs&color=00d9ff&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Cephas-67?label=Followers&style=for-the-badge&color=00D9FF&labelColor=101010" alt="Followers"/>
 
 </div>
 
@@ -65,7 +65,8 @@ hobbies:
   - Documentaires 🎬
   - Musique 🎵
   - Sports ⚽
-  
+  - Échecs 🏛️
+
 currently_learning: 
   - Docker & Kubernetes
   - CI/CD Pipelines
@@ -134,23 +135,23 @@ currently_learning:
 <div align="center">
 
 <!-- Projet 1 -->
-<a href="https://github.com/votre-username/ifri-comotorage">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=ifri-comotorage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cephas-67/ifri-comotorage">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=ifri-comotorage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 2 -->
-<a href="https://github.com/votre-username/dekoun">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=dekoun&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cephas-67/dekoun">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dekoun&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 3 -->
-<a href="https://github.com/votre-username/elo-benin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=elo-benin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cephas-67/elo-benin">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=elo-benin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 4 -->
-<a href="https://github.com/votre-username/dhcp-server">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=votre-username&repo=dhcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
+<a href="https://github.com/Cephas-67/dhcp-server">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dhcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 </div>
@@ -199,10 +200,10 @@ Configuration complète d'un serveur DHCP pour gestion automatisée des adresses
 <div align="center">
 
 <!-- Stats principales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=votre-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cephas-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
 
 <!-- Langages les plus utilisés -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=votre-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cephas-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
 
 </div>
 
@@ -211,7 +212,7 @@ Configuration complète d'un serveur DHCP pour gestion automatisée des adresses
 <div align="center">
 
 <!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=votre-username&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cephas-67&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" />
 
 </div>
 
@@ -220,7 +221,7 @@ Configuration complète d'un serveur DHCP pour gestion automatisée des adresses
 <div align="center">
 
 <!-- Graphique d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=votre-username&custom_title=Graphique%20d'Activité&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cephas-67&custom_title=Graphique%20d'Activité&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
 
 </div>
 
@@ -229,7 +230,7 @@ Configuration complète d'un serveur DHCP pour gestion automatisée des adresses
 <div align="center">
 
 <!-- Trophées GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=votre-username&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=Cephas-67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
 
 </div>
 
@@ -237,7 +238,7 @@ Configuration complète d'un serveur DHCP pour gestion automatisée des adresses
 
 <!-- Snake qui mange les contributions -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/votre-username/votre-username/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 <br>
@@ -357,10 +358,10 @@ mindmap
 
 ### 🌐 **Retrouvez-moi sur**
 
-<a href="https://linkedin.com/in/asimc">
+<a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/votre-username">
+<a href="https://github.com/Cephas-67">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:simeoncephasamoussou@gmail.com">
