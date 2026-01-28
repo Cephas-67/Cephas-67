@@ -1,66 +1,52 @@
 <div align="center">
 
-<!-- Bannière Header minimaliste -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&animation=fadeIn" width="100%"/>
+<br><br>
 
-</div>
+<!-- Nom en grand -->
+<h1>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=45&pause=1000&color=7C3AED&center=true&vCenter=true&width=800&lines=Sim%C3%A9on+C%C3%A9phas+AMOUSSOU" alt="Siméon Céphas AMOUSSOU" />
+</h1>
 
-<!-- Container principal avec design moderne -->
-<div align="center">
-  <br><br>
-  
-  <!-- Photo de profil avec blob animation -->
-  <div style="position: relative; display: inline-block;">
-    <img src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/main/profile-photo.jpg" alt="Siméon Céphas AMOUSSOU" width="200" style="border-radius: 50%; border: 4px solid #7C3AED; box-shadow: 0 0 30px rgba(124, 58, 237, 0.5);"/>
-  </div>
-  
-  <br><br>
-  
-  <!-- Nom et titre avec style moderne -->
-  <h1 style="font-size: 3em; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    Siméon Céphas AMOUSSOU
-  </h1>
-  
-  <!-- Typing effect pour le sous-titre -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+💻;Designer+UI%2FUX+🎨;Aspirant+DevOps+🚀;Passionné+de+Code+%26+Design" alt="Typing SVG" />
-  </a>
-  
-  <br><br>
-  
-  <!-- Badges de contact modernes -->
-  <a href="mailto:simeoncephasamoussou@gmail.com">
-    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://github.com/Cephas-67">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <img src="https://img.shields.io/badge/📍_Cotonou,_Bénin-7C3AED?style=for-the-badge" alt="Location"/>
-  
-  <br><br>
-  
-  <!-- Compteurs -->
-  <img src="https://komarev.com/ghpvc/?username=Cephas-67&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Cephas-67?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers"/>
-  
+<!-- Sous-titre animé -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeur+Full-Stack+%F0%9F%92%BB;Designer+UI%2FUX+%F0%9F%8E%A8;Aspirant+DevOps+%F0%9F%9A%80;Passionn%C3%A9+de+Code+et+Design" alt="Typing SVG" />
+
+<br><br>
+
+<!-- Badges de contact -->
+<a href="mailto:simeoncephasamoussou@gmail.com">
+  <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+</a>
+<a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/Cephas-67">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<img src="https://img.shields.io/badge/📍_Cotonou,_Bénin-7C3AED?style=for-the-badge" alt="Location"/>
+
+<br><br>
+
+<!-- Compteurs -->
+<img src="https://komarev.com/ghpvc/?username=Cephas-67&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+<img src="https://img.shields.io/github/followers/Cephas-67?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers"/>
+
 </div>
 
 <br><br>
 
-<!-- Séparateur élégant -->
+<!-- Séparateur -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-<!-- Section À propos avec design carte -->
+<!-- Section À propos -->
 <div align="center">
   
 ## 👨‍💻 **À Propos**
 
 </div>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <table align="center">
 <tr>
@@ -108,7 +94,7 @@ Gaming | Lecture | Documentaires | Musique | Sports | Échecs
 
 <br>
 
-<!-- Compétences techniques avec design moderne -->
+<!-- Compétences techniques -->
 <div align="center">
 
 ## 🛠️ **Stack Technique**
@@ -244,7 +230,7 @@ Gaming | Lecture | Documentaires | Musique | Sports | Échecs
 
 <br>
 
-<!-- Section Projets avec design carte -->
+<!-- Section Projets -->
 <div align="center">
 
 ## 💼 **Projets Phares**
@@ -320,7 +306,7 @@ Configuration serveur DHCP pour gestion automatisée des adresses IP en réseau 
 
 <br>
 
-<!-- GitHub Stats avec design moderne -->
+<!-- GitHub Stats -->
 <div align="center">
 
 ## 📊 **GitHub Analytics**
@@ -351,17 +337,6 @@ Configuration serveur DHCP pour gestion automatisée des adresses IP en réseau 
 </tr>
 </table>
 
-</div>
-
-<br>
-
-<!-- Animation chat qui court après des souris -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 <br>
@@ -466,9 +441,15 @@ Monitoring
 
 ### 🤝 **Ouvert à de nouvelles collaborations et opportunités**
 
+<br><br>
+
+---
+
+<sub>💜 Fait avec passion | © 2025 Siméon Céphas AMOUSSOU</sub>
+
 <br>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
+<!-- Footer animé -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer" width="100%"/>
 
 </div>
