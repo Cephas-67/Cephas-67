@@ -1,401 +1,474 @@
 <div align="center">
 
-<!-- Bannière animée avec typing effect -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Siméon%20Céphas%20AMOUSSOU&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Dev%20Full-Stack%20%7C%20Designer%20UI/UX%20%7C%20Aspirant%20DevOps&descAlignY=51&descSize=20" width="100%"/>
-
-<!-- Typing SVG -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Bienvenue+sur+mon+GitHub+!+%F0%9F%91%8B;Étudiant+en+Génie+Logiciel+%F0%9F%8E%93;Passionné+de+Code+%26+Design+%F0%9F%92%BB%F0%9F%8E%A8;Toujours+en+quête+d'apprentissage+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br>
-
-<!-- Badges sociaux animés -->
-<a href="mailto:simeoncephasamoussou@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010" alt="Gmail"/>
-</a>
-<a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" alt="LinkedIn"/>
-</a>
-<a href="https://github.com/Cephas-67">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" alt="GitHub"/>
-</a>
-<img src="https://img.shields.io/badge/Cotonou-Bénin-00D9FF?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=101010" alt="Location"/>
-
-<br><br>
-
-<!-- Compteur de visiteurs animé -->
-<img src="https://komarev.com/ghpvc/?username=Cephas-67&label=Visiteurs&color=00d9ff&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/Cephas-67?label=Followers&style=for-the-badge&color=00D9FF&labelColor=101010" alt="Followers"/>
+<!-- Bannière Header minimaliste -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=200&section=header&animation=fadeIn" width="100%"/>
 
 </div>
 
-<br>
+<!-- Container principal avec design moderne -->
+<div align="center">
+  <br><br>
+  
+  <!-- Photo de profil avec blob animation -->
+  <div style="position: relative; display: inline-block;">
+    <img src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/main/profile-photo.jpg" alt="Siméon Céphas AMOUSSOU" width="200" style="border-radius: 50%; border: 4px solid #7C3AED; box-shadow: 0 0 30px rgba(124, 58, 237, 0.5);"/>
+  </div>
+  
+  <br><br>
+  
+  <!-- Nom et titre avec style moderne -->
+  <h1 style="font-size: 3em; margin: 0; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    Siméon Céphas AMOUSSOU
+  </h1>
+  
+  <!-- Typing effect pour le sous-titre -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Développeur+Full-Stack+💻;Designer+UI%2FUX+🎨;Aspirant+DevOps+🚀;Passionné+de+Code+%26+Design" alt="Typing SVG" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Badges de contact modernes -->
+  <a href="mailto:simeoncephasamoussou@gmail.com">
+    <img src="https://img.shields.io/badge/✉️_Email-EA4335?style=for-the-badge&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/Cephas-67">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/📍_Cotonou,_Bénin-7C3AED?style=for-the-badge" alt="Location"/>
+  
+  <br><br>
+  
+  <!-- Compteurs -->
+  <img src="https://komarev.com/ghpvc/?username=Cephas-67&label=Profile+Views&color=7C3AED&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Cephas-67?label=Followers&style=for-the-badge&color=7C3AED" alt="Followers"/>
+  
+</div>
 
-<!-- Ligne de séparation animée -->
+<br><br>
+
+<!-- Séparateur élégant -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> **À Propos de Moi**
+<!-- Section À propos avec design carte -->
+<div align="center">
+  
+## 👨‍💻 **À Propos**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 📝 **Bio**
 
 ```yaml
 nom: Siméon Céphas AMOUSSOU
-localisation: ["Cotonou", "Bénin", "🇧🇯"]
-formation: "Licence en Génie Logiciel (2ème année)"
-université: "IFRI-UAC"
-spécialisation_future: "DevOps"
+localisation: Cotonou, Bénin 🇧🇯
+formation: Génie Logiciel (L2)
+université: IFRI-UAC
+objectif: Spécialisation DevOps
 
 rôles:
-  - Développeur Web/Mobile Junior
+  - Dev Full-Stack
   - Designer UI/UX
-  - Graphiste Adobe Suite
+  - Graphiste Adobe
   - Marketing Digital
-
-passion:
-  - "Créer des solutions numériques innovantes"
-  - "Résoudre des problèmes réels avec le code"
-  - "Designer des interfaces élégantes"
-  
-langues: ["Français 🇫🇷", "English 🇬🇧", "Fon", "Yoruba"]
-
-hobbies: 
-  - Jeux vidéos 🎮
-  - Lecture 📚
-  - Documentaires 🎬
-  - Musique 🎵
-  - Sports ⚽
-  - Échecs 🏛️
-
-currently_learning: 
-  - Docker & Kubernetes
-  - CI/CD Pipelines
-  - Cloud Computing (AWS/Azure)
-  - Infrastructure as Code
 ```
 
-<br><br>
+</td>
+<td width="50%" valign="top">
 
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+### 🎯 **Passions**
 
-<br>
+- 💡 Créer des solutions innovantes
+- 🎨 Designer des interfaces élégantes
+- 🚀 Résoudre des problèmes complexes
+- 📚 Apprendre de nouvelles technos
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35px"> **Mes Compétences Techniques**
+### 🗣️ **Langues**
+Français 🇫🇷 | English 🇬🇧 | Fon | Yoruba
 
-<div align="center">
+### 🎮 **Hobbies**
+Gaming | Lecture | Documentaires | Musique | Sports | Échecs
 
-### 🎨 **Frontend Development**
-
-<img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=vue" width="65" height="65" alt="Vue" />
-<img src="https://skillicons.dev/icons?i=html" width="65" height="65" alt="HTML5" />
-<img src="https://skillicons.dev/icons?i=css" width="65" height="65" alt="CSS3" />
-<img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=tailwind" width="65" height="65" alt="Tailwind" />
-<img src="https://skillicons.dev/icons?i=bootstrap" width="65" height="65" alt="Bootstrap" />
-
-### ⚙️ **Backend Development**
-
-<img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=postgresql" width="65" height="65" alt="PostgreSQL" />
-<img src="https://skillicons.dev/icons?i=sqlite" width="65" height="65" alt="SQLite" />
-
-### 🎨 **Design & Creative Tools**
-
-<img src="https://skillicons.dev/icons?i=figma" width="65" height="65" alt="Figma" />
-<img src="https://skillicons.dev/icons?i=ai" width="65" height="65" alt="Adobe Illustrator" />
-<img src="https://skillicons.dev/icons?i=ps" width="65" height="65" alt="Adobe Photoshop" />
-<img src="https://skillicons.dev/icons?i=xd" width="65" height="65" alt="Adobe XD" />
-<img src="https://skillicons.dev/icons?i=ae" width="65" height="65" alt="After Effects" />
-
-### 🔧 **DevOps & Tools**
-
-<img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-<img src="https://skillicons.dev/icons?i=git" width="65" height="65" alt="Git" />
-<img src="https://skillicons.dev/icons?i=github" width="65" height="65" alt="GitHub" />
-<img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
-<img src="https://skillicons.dev/icons?i=linux" width="65" height="65" alt="Linux" />
-<img src="https://skillicons.dev/icons?i=windows" width="65" height="65" alt="Windows" />
-
-</div>
-
-<br>
-
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💼 **Projets Phares**
-
-<div align="center">
-
-<!-- Projet 1 -->
-<a href="https://github.com/stj16/PIL1_2425_9">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=ifri-comotorage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-<!-- Projet 2 -->
-<a href="https://github.com/Cephas-67/dekoun-nectar">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dekoun&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-<!-- Projet 3 -->
-<a href="https://github.com/Cephas-67/E-lo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=elo-benin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-<!-- Projet 4 -->
-
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dhcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<br>
-
-### 🚗 **IFRI Comotorage**
-**Plateforme de covoiturage universitaire**  
-`Vue.js` • `Django` • `SQLite` • `REST API`
-
-Application web permettant aux étudiants d'IFRI de partager leurs trajets quotidiens, réduisant les frais de déplacement. Système de matching intelligent entre conducteurs et passagers.
-
----
-
-### 🛍️ **DEKOUN - E-commerce**
-**Boutique en ligne de produits alimentaires**  
-`React` • `Django REST Framework` • `Payment Gateway` • `Responsive Design`
-
-Plateforme e-commerce moderne pour la vente de purée de sauce graine. Interface utilisateur intuitive avec panier d'achat, gestion des commandes et paiement sécurisé.
-
----
-
-### 🏠 **e-lo Bénin**
-**Solution digitale de location immobilière**  
-`TypeScript` • `Vue.js` • `Django` • `PostgreSQL` • `Google Maps API`
-
-Plateforme innovante modernisant la recherche et location immobilière au Bénin. Système de filtres avancés, géolocalisation et mise en relation directe propriétaires-locataires.
-
----
-
-### 🖥️ **Serveur DHCP**
-**Infrastructure réseau et administration système**  
-`Windows Server` • `ISC DHCP` • `Networking` • `Active Directory`
-
-Configuration complète d'un serveur DHCP pour gestion automatisée des adresses IP dans un environnement réseau local d'entreprise.
-
-<br>
-
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-
-<!-- Stats principales -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Cephas-67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true&include_all_commits=true" />
-
-<!-- Langages les plus utilisés -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cephas-67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cephas-67&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6B00&currStreakLabel=00D9FF" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Graphique d'activité -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cephas-67&custom_title=Graphique%20d'Activité&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<!-- Trophées GitHub -->
-<img src="https://github-profile-trophy.vercel.app/?username=Cephas-67&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" />
-
-</div>
-
-<br>
-
-<!-- Snake qui mange les contributions -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-<br>
-
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎓 **Certifications & Formations**
-
-<div align="center">
-
-| Certification | Organisme | Domaine |
-|--------------|-----------|---------|
-| 🎨 **Google UX Design** | Google | UI/UX Design Professionnel |
-| 💻 **SQL, Python, HTML5, CSS3, JS** | Sololearn | Développement Web (Niveau Intermédiaire) |
-| 🤖 **Data Analytics with AI** | Sololearn | Intelligence Artificielle & Analyse de Données |
-| 📊 **Data Visualization - Excel** | UniAthena | Visualisation de Données avec MS Excel |
-
-</div>
-
-<br>
-
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 🎯 **Objectifs d'Apprentissage 2025**
-
-<div align="center">
-
-```mermaid
-mindmap
-  root((DevOps Journey))
-    Containerisation
-      Docker
-      Kubernetes
-      Docker Compose
-    Cloud Computing
-      AWS
-      Azure
-      Google Cloud
-    CI/CD
-      GitHub Actions
-      Jenkins
-      GitLab CI
-    Infrastructure as Code
-      Terraform
-      Ansible
-    Monitoring
-      Prometheus
-      Grafana
-      ELK Stack
-```
-
-</div>
-
-<br>
-
-### 🚀 **En cours d'apprentissage**
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>
-      <strong>Docker</strong><br>
-      <sub>Containerisation</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" /><br>
-      <strong>Kubernetes</strong><br>
-      <sub>Orchestration</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" /><br>
-      <strong>AWS</strong><br>
-      <sub>Cloud Platform</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=terraform" width="48" height="48" alt="Terraform" /><br>
-      <strong>Terraform</strong><br>
-      <sub>IaC</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" /><br>
-      <strong>Jenkins</strong><br>
-      <sub>CI/CD</sub>
-    </td>
-    <td align="center" width="200">
-      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>
-      <strong>GitHub Actions</strong><br>
-      <sub>Automation</sub>
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 <br>
 
-<!-- Ligne de séparation -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <br>
 
-## 📫 **Contactez-moi**
-
+<!-- Compétences techniques avec design moderne -->
 <div align="center">
 
-💌 **Email:** [simeoncephasamoussou@gmail.com](mailto:simeoncephasamoussou@gmail.com)  
+## 🛠️ **Stack Technique**
+
+### **Frontend Development**
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" height="50" alt="React" />
+<br><strong>React</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vue" width="50" height="50" alt="Vue" />
+<br><strong>Vue.js</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML5" />
+<br><strong>HTML5</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS3" />
+<br><strong>CSS3</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" height="50" alt="JavaScript" />
+<br><strong>JavaScript</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" height="50" alt="TypeScript" />
+<br><strong>TypeScript</strong>
+</td>
+</tr>
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=tailwind" width="50" height="50" alt="Tailwind" />
+<br><strong>Tailwind</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap" />
+<br><strong>Bootstrap</strong>
+</td>
+<td colspan="4"></td>
+</tr>
+</table>
+
+### **Backend Development**
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/python-icon.svg" width="50" height="50" alt="Python" />
+<br><strong>Python</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django" />
+<br><strong>Django</strong>
+</td>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" height="50" alt="MySQL" />
+<br><strong>MySQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=postgresql" width="50" height="50" alt="PostgreSQL" />
+<br><strong>PostgreSQL</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=sqlite" width="50" height="50" alt="SQLite" />
+<br><strong>SQLite</strong>
+</td>
+</tr>
+</table>
+
+### **Design & Creative Tools**
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=figma" width="50" height="50" alt="Figma" />
+<br><strong>Figma</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ai" width="50" height="50" alt="Illustrator" />
+<br><strong>Illustrator</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ps" width="50" height="50" alt="Photoshop" />
+<br><strong>Photoshop</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=xd" width="50" height="50" alt="Adobe XD" />
+<br><strong>Adobe XD</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=ae" width="50" height="50" alt="After Effects" />
+<br><strong>After Effects</strong>
+</td>
+</tr>
+</table>
+
+### **DevOps & Tools**
+
+<table align="center">
+<tr>
+<td align="center" width="100">
+<img src="https://techstack-generator.vercel.app/docker-icon.svg" width="50" height="50" alt="Docker" />
+<br><strong>Docker</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=git" width="50" height="50" alt="Git" />
+<br><strong>Git</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=github" width="50" height="50" alt="GitHub" />
+<br><strong>GitHub</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=vscode" width="50" height="50" alt="VS Code" />
+<br><strong>VS Code</strong>
+</td>
+<td align="center" width="100">
+<img src="https://skillicons.dev/icons?i=linux" width="50" height="50" alt="Linux" />
+<br><strong>Linux</strong>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Section Projets avec design carte -->
+<div align="center">
+
+## 💼 **Projets Phares**
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚗 **IFRI Comotorage**
+Plateforme de covoiturage universitaire
+
+**Stack:** Vue.js, Django, SQLite, REST API
+
+Application permettant aux étudiants d'IFRI de partager leurs trajets quotidiens. Système de matching intelligent conducteurs-passagers.
+
+<a href="https://github.com/stj16/PIL1_2425_9">
+  <img src="https://img.shields.io/badge/Voir_le_projet-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🛍️ **DEKOUN - E-commerce**
+Boutique en ligne moderne
+
+**Stack:** React, Django REST, Payment API
+
+Plateforme e-commerce pour produits alimentaires. Interface intuitive avec panier, gestion commandes et paiement sécurisé.
+
+<a href="https://github.com/Cephas-67/dekoun-nectar">
+  <img src="https://img.shields.io/badge/Voir_le_projet-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🏠 **e-lo Bénin**
+Solution digitale immobilière
+
+**Stack:** TypeScript, Vue.js, Django, PostgreSQL
+
+Modernisation de la recherche et location immobilière au Bénin. Filtres avancés, géolocalisation, mise en relation directe.
+
+<a href="https://github.com/Cephas-67/E-lo">
+  <img src="https://img.shields.io/badge/Voir_le_projet-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+<td width="50%">
+
+### 🖥️ **Serveur DHCP**
+Infrastructure réseau
+
+**Stack:** Windows Server, ISC DHCP, Networking
+
+Configuration serveur DHCP pour gestion automatisée des adresses IP en réseau local d'entreprise.
+
+<a href="https://github.com/Cephas-67">
+  <img src="https://img.shields.io/badge/Voir_le_profil-7C3AED?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- GitHub Stats avec design moderne -->
+<div align="center">
+
+## 📊 **GitHub Analytics**
+
+<table align="center">
+<tr>
+<td width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=Cephas-67&show_icons=true&theme=radical&hide_border=true&bg_color=1a1b27&title_color=7C3AED&icon_color=7C3AED&text_color=FFFFFF&count_private=true" width="100%" />
+</td>
+<td width="50%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Cephas-67&theme=radical&hide_border=true&background=1a1b27&stroke=7C3AED&ring=7C3AED&fire=FF6B6B&currStreakLabel=7C3AED" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cephas-67&layout=compact&theme=radical&hide_border=true&bg_color=1a1b27&title_color=7C3AED&text_color=FFFFFF&langs_count=8" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Cephas-67&custom_title=Contribution+Graph&bg_color=1a1b27&color=7C3AED&line=7C3AED&point=FFFFFF&area_color=7C3AED&area=true&hide_border=true" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<img src="https://github-profile-trophy.vercel.app/?username=Cephas-67&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" width="100%" />
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<!-- Animation chat qui court après des souris -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Cephas-67/Cephas-67/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Certifications -->
+<div align="center">
+
+## 🎓 **Certifications**
+
+| 🎨 | **Google UX Design** | UI/UX Design Professionnel |
+|:---:|:---|:---|
+| 💻 | **SQL, Python, HTML5, CSS3, JS** | Développement Web - Sololearn |
+| 🤖 | **Data Analytics with AI** | Intelligence Artificielle - Sololearn |
+| 📊 | **Data Visualization - Excel** | Visualisation de Données - UniAthena |
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Objectifs d'apprentissage -->
+<div align="center">
+
+## 🎯 **Parcours DevOps 2025**
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🐳 **Containerisation**
+Docker  
+Kubernetes  
+Docker Compose
+
+</td>
+<td align="center" width="25%">
+
+### ☁️ **Cloud Computing**
+AWS  
+Azure  
+Google Cloud
+
+</td>
+<td align="center" width="25%">
+
+### 🔄 **CI/CD**
+GitHub Actions  
+Jenkins  
+GitLab CI
+
+</td>
+<td align="center" width="25%">
+
+### 🛠️ **Infrastructure**
+Terraform  
+Ansible  
+Monitoring
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+<!-- Contact -->
+<div align="center">
+
+## 📬 **Me Contacter**
+
+💌 **Email:** simeoncephasamoussou@gmail.com  
 📱 **Téléphone:** +229 01 47 79 92 36 / +229 01 46 33 35 20  
 📍 **Localisation:** Akpakpa, Agblangandan - Cotonou, Bénin 🇧🇯
 
 <br>
 
-### 🌐 **Retrouvez-moi sur**
-
 <a href="https://www.linkedin.com/in/sim%C3%A9on-c%C3%A9phas-amoussou-0ba010368/">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/Cephas-67">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="mailto:simeoncephasamoussou@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-</div>
+<br><br>
+
+### ⭐ **N'hésitez pas à explorer mes projets et à laisser une étoile !**
+
+### 🤝 **Ouvert à de nouvelles collaborations et opportunités**
 
 <br>
 
-<!-- Ligne de séparation -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br>
-
-## 💭 **Citation du Jour**
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=Le%20code%20est%20comme%20l'humour.%20Quand%20il%20faut%20l'expliquer,%20c'est%20qu'il%20est%20mauvais.&author=Cory%20House" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-### ⭐ **Si mes projets vous intéressent, n'hésitez pas à les explorer et à laisser une étoile !**
-
-### 🤝 **Toujours ouvert à de nouvelles collaborations et opportunités**
-
-<br>
-
-<!-- Footer animé -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&animation=twinkling" width="100%"/>
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=120&section=footer" width="100%"/>
 
 </div>
