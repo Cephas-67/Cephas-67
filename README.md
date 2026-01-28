@@ -135,22 +135,22 @@ currently_learning:
 <div align="center">
 
 <!-- Projet 1 -->
-<a href="https://github.com/Cephas-67/ifri-comotorage">
+<a href="https://github.com/stj16/PIL1_2425_9">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=ifri-comotorage&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 2 -->
-<a href="https://github.com/Cephas-67/dekoun">
+<a href="https://github.com/Cephas-67/dekoun-nectar">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dekoun&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 3 -->
-<a href="https://github.com/Cephas-67/elo-benin">
+<a href="https://github.com/Cephas-67/E-lo">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=elo-benin&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
 <!-- Projet 4 -->
-<a href="https://github.com/Cephas-67/dhcp-server">
+
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Cephas-67&repo=dhcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
 </a>
 
